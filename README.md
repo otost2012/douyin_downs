@@ -1,10 +1,16 @@
-# 抖音下载说明！
-运行 run_tk_views文件打开可视化工具，输入抖音分享链接，选择有水印或者无水印，选择视频截图或者不截图，点击go开始下载，下载完成会提示。
+文件说明
+
+2018.9.12更新抖音下载，可视化操作
+
+2018.9.15美化tkinter界面，更新抖音下载，修复用户名乱码，无法生成截图文件得问题。
+
+2018.9.29更新百度云人脸识别小程序，实现人脸检测，人脸对比功能.
+
+![图片1](https://github.com/otost2012/python36_project/blob/master/Screenshots/1.png?raw=true)
+
+![图片2](https://raw.githubusercontent.com/otost2012/python36_project/master/Screenshots/2.png)
+
+![图片3](https://github.com/otost2012/python36_project/blob/master/Screenshots/dou243.gif?raw=true)
 
 
 
-更新汉字转拼音，使用xpinyin 0.5.1库，由于使用opencv截图，使用过程中保存路径不能为中文，只好转换为拼音路径
-
-
-
-谢谢使用
